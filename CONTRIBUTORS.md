@@ -13,3 +13,9 @@
  - Bio : Student Researcher
  - GitHub : [Suvrat Patel](https://github.com/MadJokkerr)
  - Linkedin : (https://www.linkedin.com/in/suvrat-patel-45331aa7/)
+
+#### Name : Sarvesh Singh
+ - Place : Bhopal, India
+ - Bio : Pre-final Year Student
+ - GitHub : [Sarvesh Singh](https://github.com/Soullessmars)
+ - Linkedin : (https://www.linkedin.com/in/sarvesh-singh-16b3501a1/)
