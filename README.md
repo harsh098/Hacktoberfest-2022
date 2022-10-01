@@ -26,6 +26,9 @@ Here are 3 quick and painless ways to contribute to this project:
 - Request for work on that issue till don't work 
 - Fork-Work-Pull
 - Add your name to the `CONTRIBUTORS.md` file
+- Put issue number in pull request so that we can get it quickly
+
+> Note : Don't Contribute Until Assigned
 
 
 ## Getting started
