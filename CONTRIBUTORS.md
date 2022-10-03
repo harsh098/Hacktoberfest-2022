@@ -19,3 +19,9 @@
  - Bio : Pre-final Year Student
  - GitHub : [Sarvesh Singh](https://github.com/Soullessmars)
  - Linkedin : (https://www.linkedin.com/in/sarvesh-singh-16b3501a1/)
+
+#### Name : Abhijeet Verma
+ - Place : Bhopal, India
+ - Bio : Pre-final Year Student
+ - GitHub : [Abhijeet Verma](https://github.com/xx-abhijeet-xx)
+ - Linkedin : (https://www.linkedin.com/in/abhijeet-verma-the-dragon-sin-of-wrath/)
