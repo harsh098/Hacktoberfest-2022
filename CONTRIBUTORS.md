@@ -25,3 +25,9 @@
  - Bio : Pre-final Year Student
  - GitHub : [Abhijeet Verma](https://github.com/xx-abhijeet-xx)
  - Linkedin : (https://www.linkedin.com/in/abhijeet-verma-the-dragon-sin-of-wrath/)
+
+#### Name : Sujeet Singh Tomar
+ - Place : Bhopal, India
+ - Bio : Pre-final Year Student
+ - GitHub : [Sujeet Singh Tomar](https://github.com/sujeettomar60615)
+ - Linkedin : (https://www.linkedin.com/in/sujeet-singh-tomar-live-to-learn/)
