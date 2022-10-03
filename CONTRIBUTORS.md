@@ -35,5 +35,5 @@
 #### Name : Bens Samuel
  - Place : Bhopal, India
  - Bio : Pre-final Year Student
- - GitHub : [Sujeet Singh Tomar](https://github.com/latedeveloper08)
+ - GitHub : [Bens Samuel](https://github.com/latedeveloper08)
  - Linkedin : (https://www.linkedin.com/in/bens-samuel-04611020b/)
