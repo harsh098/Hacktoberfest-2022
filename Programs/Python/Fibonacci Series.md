@@ -4,9 +4,6 @@
 > Write a program that will print fibonacci series upto N
 
 ## Solution
-# Program
-
-# Question
 > Range = int(input("How many terms? "))
 >
 > ### first two terms are pre-Define
