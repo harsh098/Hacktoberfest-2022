@@ -1,7 +1,9 @@
 # INTERACTIVE NOTEBOOKS
 
 > **Cheat Sheet**
-- Programming libraries
+- Programming Libraries
 - Editors
-- Git & Git Hub
-- 
+- Git & Github
+- Picture Libraries
+- Machine Learning
+- Block Chain
